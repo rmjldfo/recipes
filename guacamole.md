@@ -1,6 +1,6 @@
 
 # Ingredients
-- lemon
+- lime
 - yoghurt
 # Instructions
 
